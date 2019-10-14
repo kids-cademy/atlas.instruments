@@ -1,0 +1,2 @@
+include ':app', ':js-android', ':atlas'
+rootProject.name='instruments'

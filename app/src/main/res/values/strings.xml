@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Musical Instruments Atlas</string>
+    <string name="app_edition">community edition</string>
+    <string name="app_release">Release 1.0</string>
+    <string name="app_update">October 10, 2019</string>
+    <string name="app_publisher">Published by kids (a)cademy</string>
+    <string name="content_license">public domain knowledge</string>
+    <string name="app_logotype">Interesting facts about musical instruments from all over the world.</string>
+    <string name="app_description">Musical Instruments shows a glimpse on the variety of musical instruments used all over the world, some of which you never heard about.</string>
+    <string name="app_about_caption">About Musical Instruments Atlas</string>
+    <string name="app_about">Music is part of human culture defining our evolution throughout history. Musical Instruments Atlas shows a glimpse on the variety of musical instruments used all over the world, some of which you never heard about.</string>
+    <string name="app_rate_caption">Rate Musical Instruments Atlas</string>
+    <string name="app_share_caption">Share Musical Instruments Atlas</string>
+</resources>
